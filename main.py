@@ -34,3 +34,6 @@ while True:
     screen.blit(pygame.transform.scale(display, screen.get_size()), (0, 0))
     pygame.display.update()
     time.sleep(1)
+    
+    
+    #Can you see this? Say ooga booga when you do :)
